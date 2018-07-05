@@ -1,4 +1,4 @@
-# worldcuop2018
+# worldcup2018
 
 This repository contains a Python code to run Monte Carlo simulations on upcoming World Cup 2018 matches, using eXtreme Gradient Boosting on historical team stats and match results from Fifa.com.
 
